@@ -1,0 +1,23 @@
+.contactList {
+  margin-top: 20px;
+}
+
+.contactItem:not(:last-child) {
+  margin-bottom: 7px;
+}
+
+.contactName {
+  margin-right: 15px;
+}
+
+.contactNumber {
+  margin-right: 15px;
+}
+
+.contactButton {
+  font-weight: 700;
+}
+
+.contactButton:active {
+  background-color: rgb(129, 128, 194);
+}

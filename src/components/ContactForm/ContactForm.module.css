@@ -1,0 +1,18 @@
+.button {
+  margin-top: 15px;
+  padding: 5px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.button:active {
+  background-color: rgb(129, 128, 194);
+}
+
+.contactForm {
+  margin-bottom: 20px;
+  padding: 15px 30px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  background-color: rgb(226, 240, 247);
+}
